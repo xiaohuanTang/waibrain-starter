@@ -6,6 +6,9 @@
 
 30 分钟起步，让 AI 变成你的一部分，而不是你变成 AI 的一部分。
 
+**在线预览：** https://xiaohuantang.github.io/waibrain-starter/  
+**仓库：** https://github.com/xiaohuanTang/waibrain-starter
+
 ## 这是什么
 
 - 一份宪法：`AGENTS.md`
