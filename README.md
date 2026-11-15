@@ -47,10 +47,14 @@
 - [文档索引](docs/README.md)
 - [装机总说明](docs/装机总说明.md)：六步、设计原则、谁能教别人装
 - [五问选档](docs/五问选档.md)：2 分钟判断你适合哪一档
+- [初级指南](docs/初级指南.md)：30 分钟起步，零终端
+- [中级指南](docs/中级指南.md)：2–4 小时，Claude Code + vault
+- [高级指南](docs/高级指南.md)：1 天搭骨架，事件流/自检/定时任务
 - [权限配置](docs/权限配置.md)：让 AI 能干活、但删东西要问你
 - [隐私分层](docs/隐私分层.md)：share-ok / private，从第一天分开
 - [学习模式](docs/学习模式.md)：先反问、给线索，不直接给答案
 - [新手上手包](docs/新手上手包.md)：头两周怎么用、五个小习惯
+- [新手上手包（网页版）](https://xiaohuantang.github.io/waibrain-starter/onboarding.html)：可打印/存 PDF
 - [设计原则](docs/设计原则.md)：这个包为什么这样设计
 
 ## 目录

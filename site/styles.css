@@ -171,6 +171,7 @@ h3 { margin: 0 0 8px; font-size: 17px; }
 .quote small { color: var(--muted); }
 .turn { margin-top: 20px; font-size: 18px; }
 .note { margin-top: 20px; color: var(--muted); font-size: 14px; }
+.note a { color: var(--blue); font-weight: 600; }
 .steps { margin: 0; padding: 0; list-style: none; display: grid; gap: 8px; }
 .steps li { display: flex; gap: 14px; align-items: baseline; background: #fff; border: 1px solid var(--line); border-radius: 10px; padding: 12px 16px; }
 .steps span { color: var(--blue); font-weight: 800; font-size: 12px; min-width: 48px; }
