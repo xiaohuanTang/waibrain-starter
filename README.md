@@ -49,6 +49,7 @@
 - [五问选档](docs/五问选档.md)：2 分钟判断你适合哪一档
 - [PRD](docs/PRD.md)：完整 PRD + 原型
 - [5 问选档 · 1 页 PRD](docs/PRD-5问选档.md)：初学者示例
+- [记忆行为测试](docs/memory-behavior-test.md)：12 条 case、7→2、隐私 1/1
 - [初级指南](docs/初级指南.md)：30 分钟起步，零终端
 - [中级指南](docs/中级指南.md)：2–4 小时，Claude Code + vault
 - [高级指南](docs/高级指南.md)：1 天搭骨架，事件流/自检/定时任务
